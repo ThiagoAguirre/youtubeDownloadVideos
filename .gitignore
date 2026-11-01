@@ -1,2 +1,20 @@
+# Ambiente virtual
+.venv/
+
+# Variáveis de ambiente
 .env
-__pycache__
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ferramentas de desenvolvimento
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Vídeos baixados localmente
+videos/
