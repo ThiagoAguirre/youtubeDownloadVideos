@@ -1,0 +1,6 @@
+# Cole um link do YouTube por linha
+# Linhas com # são ignoradas
+https://www.youtube.com/watch?v=vKDj_XIKW7o&t=63s
+https://www.youtube.com/watch?v=OSAOh4L41Wg
+https://www.youtube.com/watch?v=8-B6ryuBkCM&t=2s
+https://www.youtube.com/watch?v=_YbGWoUaZg0&t=76s

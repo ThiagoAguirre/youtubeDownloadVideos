@@ -1,0 +1,5 @@
+# Dependências do projeto de download do YouTube
+# Instale com: .venv/bin/python -m pip install -r requirements.txt
+yt-dlp[default]
+deno
+imageio-ffmpeg
